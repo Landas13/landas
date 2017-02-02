@@ -26,5 +26,8 @@ public class Test {
     public static void nothing(){
         int i = 5;
     }
+    public void donothing(){
+        String nothing = "Notgivingashit";
+    }
 }
 
