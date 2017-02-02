@@ -23,5 +23,8 @@ public class Test {
         }
         return result;
     }
+    public static void nothing(){
+        int i = 5;
+    }
 }
 
