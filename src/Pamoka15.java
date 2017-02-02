@@ -3,6 +3,6 @@
  */
 public class Pamoka15 {
     public static void main(String[] args) {
-
+	// cia komentaras
     }
 }
